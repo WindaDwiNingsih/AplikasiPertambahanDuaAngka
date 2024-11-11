@@ -154,7 +154,6 @@ public class PertambahanDuaAngka extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         try {
-
             int Angka1 = Integer.parseInt(a.getText());
             int Angka2 = Integer.parseInt(b.getText());
             int hasil = Angka1 + Angka2;
